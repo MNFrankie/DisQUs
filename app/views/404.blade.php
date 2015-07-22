@@ -6,5 +6,6 @@
 </head>
 <body>
 	ERROR 404 PAGE NOT FOUND
+	PLEASE CHECK THE URL YOU ENTERED
 </body>
 </html>
