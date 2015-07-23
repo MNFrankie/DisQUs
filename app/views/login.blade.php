@@ -5,12 +5,12 @@
  <title>Login Page</title>
 
  <!-- Bootstrap core CSS -->
-    <link href="{{ URL::to('bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
-    <link href="{{ URL::to('bootstrap/css/bootstrap-reset.css') }}" rel="stylesheet">
-    <!--external css-->
-    <!-- Custom styles for this template -->
-    <link href="{{ URL::to('bootstrap/css/style.css') }}" rel="stylesheet">
-    <link href="{{ URL::to('bootstrap/css/style-responsive.css') }}" rel="stylesheet" />
+      <link href="{{ URL::to('bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+      <link href="{{ URL::to('bootstrap/css/bootstrap-reset.css') }}" rel="stylesheet">
+      <!--external css-->
+      <!-- Custom styles for this template -->
+      <link href="{{ URL::to('bootstrap/css/style.css') }}" rel="stylesheet">
+      <link href="{{ URL::to('bootstrap/css/style-responsive.css') }}" rel="stylesheet" />
 
   <style>
  #login-form
