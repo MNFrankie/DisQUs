@@ -6,6 +6,7 @@
 </head>
 <body>
 	ERROR 404 PAGE NOT FOUND
-	PLEASE CHECK THE URL YOU ENTERED
+	Error 404: Looks Like this page has been lost at sea...
+	We have dispatched the coastguard to locate the page
 </body>
 </html>
